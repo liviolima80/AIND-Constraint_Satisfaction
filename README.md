@@ -5,5 +5,7 @@ To launch the notebook, run the following command from a terminal with anaconda3
     jupyter notebook AIND-Constraint_Satisfaction.ipynb
     
 Implementation of backtracking search
+
 Additional implementation of Least Constraining Value heuristic
+
 Additional implementation of Minimum Remaining Values heuristic
